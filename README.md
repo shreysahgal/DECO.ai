@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://github.com/shreysahgal/DECO.ai/blob/3f140ac7133de84073a8ade35581ed11df1ea2ec/static/deco_logo.png" alt="deco_logo" width="300"/>
 <h3 align="center"> Effortlessly rearrange your living space without lifting a finger! Use state-of-the-art AI to scan your furniture, create 3D models, and virtually design and visualize your room in a snap.</h3>
+  <p align="center"> Nolan Kuza, Arnav Mummineni, Andrew Yang, and Shrey Sahgal <br>
+    {nkuza, arnavmu, ayayang, shreyps}@umich.edu</p>
 </p>
 
 ## Examples
