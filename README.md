@@ -39,7 +39,7 @@ Here are some example of us scanning objects in the real world in the DECOscape:
 ### Using the Desktop app
   Once you've scanned and uploaded to heart's desire, you can hop onto the DECOscape and have some fun!
 <p align="center">
-  <img align="center" src="https://github.com/shreysahgal/DECO.ai/blob/3f140ac7133de84073a8ade35581ed11df1ea2ec/static/deco.png" width="300"/>
+  <img align="center" src="https://github.com/shreysahgal/DECO.ai/blob/3f140ac7133de84073a8ade35581ed11df1ea2ec/static/deco.png" width="600"/>
 </p>
 
 
