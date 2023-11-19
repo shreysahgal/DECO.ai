@@ -3,6 +3,40 @@
 <h3 align="center"> Effortlessly rearrange your living space without lifting a finger! Use state-of-the-art AI to scan your furniture, create 3D models, and virtually design and visualize your room in a snap.</h3>
 </p>
 
+## Examples
+Here are some example of us scanning objects in the real world in the DECOscape:
+<table align="center">
+  <tr>
+    <td valign="middle"><img src="https://github.com/shreysahgal/DECO.ai/blob/cdfd5f1232c31fbf9f09c62bd706d679cbac88e2/static/deco_vid.gif" width="300"/></td>
+    <td valign="middle"><img src="https://github.com/shreysahgal/DECO.ai/blob/205cfb765adea152768b150b4044a5ba6627d280/static/mujo_model.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td valign="middle"><img src="https://github.com/shreysahgal/DECO.ai/blob/205cfb765adea152768b150b4044a5ba6627d280/static/chair_scan.gif" width="300"/></td>
+    <td valign="middle"><img src="https://github.com/shreysahgal/DECO.ai/blob/205cfb765adea152768b150b4044a5ba6627d280/static/chair_model.png" width="300"/></td>
+  </tr>
+</table>
+
+### Using the iOS App
+<table align="center">
+  <tr>
+    <td valign="middle"><p align="center">Log in using your DECO account or Google sign-in</p></td>
+    <td valign="middle"><img src="" width="300"/></td>
+  </tr>
+  <tr>
+    <td valign="middle"><p align="center">Video scan your object, making sure to capture different views</p></td>
+    <td valign="middle"><img src="" width="300"/></td>
+  </tr>
+  <tr>
+    <td valign="middle"><p align="center">Name and upload your object</p></td>
+    <td valign="middle"><img src="" width="300"/></td>
+  </tr>
+  <tr>
+    <td valign="middle"><p align="center">Bask in the efficiency of your interior design decisions!</p></td>
+    <td valign="middle"><img src="" width="300"/></td>
+  </tr>
+</table>
+
+
 ## Inspiration
 Decorating is a crucial part of making a house feel like a home, but it can be quite the hassle. DECO.ai was inspired by the significance of rearranging furniture to create a cozy and functional living space. Our team recognized the challenge of visualizing new pieces within a room before committing to buying them. So, leveraging cutting-edge NeRF technology, we developed an app that lets you scan furniture, generate 3D models, and virtually arrange them in your room with ease. This tool not only simplifies interior design decisions, but also serves as a practical shopping companion, allowing users to confidently plan their spaces before making any purchase decisions.
 
@@ -15,8 +49,6 @@ Once a user has scanned a few objects that they might be interested in, they sim
 
 ## How we built it
 The iOS app for our project was built using Flutter. We use a python to process the data and synthesize the object models, and we use Rust and Bevy for the DECO.ai 
-
-## Examples
 
 ## Challenges we ran into
 The most challenging aspect of this project was by far the implementation of the NeRFs and the synthesis of the 3D models. NeRFs are a fascinating and cutting-edge technology, but that comes with the downside of few existing, well-maintained codebases. We spent a lot of time sifting through various NeRF papers and implementations, many without much success. Thankfully, after a lot of time, we found an API that works for us, with some prerequisite data processing.
