@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shreysahgal/DECO.ai/blob/44d03474c6a0d9f3f03ddf0cad4900ca7599cfb3/static/deco.png" alt="deco_logo" width="300"/>
+  <img src="https://github.com/shreysahgal/DECO.ai/blob/3f140ac7133de84073a8ade35581ed11df1ea2ec/static/deco_logo.png" alt="deco_logo" width="300"/>
 <h3 align="center"> Effortlessly rearrange your living space without lifting a finger! Use state-of-the-art AI to scan your furniture, create 3D models, and virtually design and visualize your room in a snap.</h3>
 </p>
 
@@ -20,21 +20,27 @@ Here are some example of us scanning objects in the real world in the DECOscape:
 <table align="center">
   <tr>
     <td valign="middle"><p align="center">Log in using your DECO account or Google sign-in</p></td>
-    <td valign="middle"><img src="" width="300"/></td>
+    <td valign="middle"><img src="https://github.com/shreysahgal/DECO.ai/blob/ab753bd7e33e07ec2bde096c1af832075808bc72/static/iphone_demo_1.gif" width="300"/></td>
   </tr>
   <tr>
     <td valign="middle"><p align="center">Video scan your object, making sure to capture different views</p></td>
-    <td valign="middle"><img src="" width="300"/></td>
+    <td valign="middle"><img src="https://github.com/shreysahgal/DECO.ai/blob/ab753bd7e33e07ec2bde096c1af832075808bc72/static/iphone_demo_2.gif" width="300"/></td>
   </tr>
   <tr>
     <td valign="middle"><p align="center">Name and upload your object</p></td>
-    <td valign="middle"><img src="" width="300"/></td>
+    <td valign="middle"><img src="https://github.com/shreysahgal/DECO.ai/blob/ab753bd7e33e07ec2bde096c1af832075808bc72/static/iphone_demo_3.gif" width="300"/></td>
   </tr>
   <tr>
     <td valign="middle"><p align="center">Bask in the efficiency of your interior design decisions!</p></td>
-    <td valign="middle"><img src="" width="300"/></td>
+    <td valign="middle"><img src="https://github.com/shreysahgal/DECO.ai/blob/ab753bd7e33e07ec2bde096c1af832075808bc72/static/iphone_demo_4.gif" width="300"/></td>
   </tr>
 </table>
+
+### Using the Desktop app
+  Once you've scanned and uploaded to heart's desire, you can hop onto the DECOscape and have some fun!
+<p align="center">
+  <img align="center" src="https://github.com/shreysahgal/DECO.ai/blob/3f140ac7133de84073a8ade35581ed11df1ea2ec/static/deco.png" width="300"/>
+</p>
 
 
 ## Inspiration
