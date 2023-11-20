@@ -1,6 +1,6 @@
 [submodule "Deco"]
 	path = Deco
-	url = http://GitHub.com/RCoder01/Deco
+	url = https://github.com/RCoder01/Deco
 [submodule "camera_upload"]
 	path = camera_upload
 	url = https://github.com/Andrew1207-Yang/camera_upload
